@@ -1,3 +1,3 @@
 ﻿int number = 123;
-char[]numbers = number.ToCharArray(1);
+char[]numbers = number.ToCharArray();
 Console.WriteLine(numbers[1]);

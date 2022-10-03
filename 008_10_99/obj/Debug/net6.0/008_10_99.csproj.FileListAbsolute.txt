@@ -1,0 +1,5 @@
+E:\Наташа разработчик\C#DZ\008_10_99\obj\Debug\net6.0\008_10_99.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ\008_10_99\obj\Debug\net6.0\008_10_99.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ\008_10_99\obj\Debug\net6.0\008_10_99.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ\008_10_99\obj\Debug\net6.0\008_10_99.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ\008_10_99\obj\Debug\net6.0\008_10_99.csproj.CoreCompileInputs.cache
