@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ\003_Max_3\bin\Debug\net6.0\003_Max_3.exe
+E:\Наташа разработчик\C#DZ\003_Max_3\bin\Debug\net6.0\003_Max_3.deps.json
+E:\Наташа разработчик\C#DZ\003_Max_3\bin\Debug\net6.0\003_Max_3.runtimeconfig.json
+E:\Наташа разработчик\C#DZ\003_Max_3\bin\Debug\net6.0\003_Max_3.dll
+E:\Наташа разработчик\C#DZ\003_Max_3\bin\Debug\net6.0\003_Max_3.pdb
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.dll
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\refint\003_Max_3.dll
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.pdb
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\003_Max_3.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ\003_Max_3\obj\Debug\net6.0\ref\003_Max_3.dll
