@@ -1,0 +1,5 @@
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.csproj.CoreCompileInputs.cache
