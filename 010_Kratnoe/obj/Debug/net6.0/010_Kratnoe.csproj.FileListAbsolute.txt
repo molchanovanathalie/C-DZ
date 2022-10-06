@@ -3,3 +3,13 @@ E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kra
 E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.AssemblyInfoInputs.cache
 E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.AssemblyInfo.cs
 E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ\010_Kratnoe\bin\Debug\net6.0\010_Kratnoe.exe
+E:\Наташа разработчик\C#DZ\010_Kratnoe\bin\Debug\net6.0\010_Kratnoe.deps.json
+E:\Наташа разработчик\C#DZ\010_Kratnoe\bin\Debug\net6.0\010_Kratnoe.runtimeconfig.json
+E:\Наташа разработчик\C#DZ\010_Kratnoe\bin\Debug\net6.0\010_Kratnoe.dll
+E:\Наташа разработчик\C#DZ\010_Kratnoe\bin\Debug\net6.0\010_Kratnoe.pdb
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.dll
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\refint\010_Kratnoe.dll
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.pdb
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\010_Kratnoe.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ\010_Kratnoe\obj\Debug\net6.0\ref\010_Kratnoe.dll

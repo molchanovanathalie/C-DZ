@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\bin\Debug\net6.0\009_Udalit2tsifru.exe
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\bin\Debug\net6.0\009_Udalit2tsifru.deps.json
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\bin\Debug\net6.0\009_Udalit2tsifru.runtimeconfig.json
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\bin\Debug\net6.0\009_Udalit2tsifru.dll
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\bin\Debug\net6.0\009_Udalit2tsifru.pdb
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.dll
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\refint\009_Udalit2tsifru.dll
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.pdb
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\009_Udalit2tsifru.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ\009_Udalit2tsifru\obj\Debug\net6.0\ref\009_Udalit2tsifru.dll
