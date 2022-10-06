@@ -8,5 +8,5 @@ if(number3 == 0)
 }
 else
 {
-    Console.Write("Число некратное");
+    Console.Write(number3);
 }

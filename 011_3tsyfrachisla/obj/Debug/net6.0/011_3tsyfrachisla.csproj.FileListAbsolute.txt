@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\bin\Debug\net6.0\011_3tsyfrachisla.exe
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\bin\Debug\net6.0\011_3tsyfrachisla.deps.json
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\bin\Debug\net6.0\011_3tsyfrachisla.runtimeconfig.json
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\bin\Debug\net6.0\011_3tsyfrachisla.dll
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\bin\Debug\net6.0\011_3tsyfrachisla.pdb
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.dll
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\refint\011_3tsyfrachisla.dll
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.pdb
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\011_3tsyfrachisla.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ\011_3tsyfrachisla\obj\Debug\net6.0\ref\011_3tsyfrachisla.dll
