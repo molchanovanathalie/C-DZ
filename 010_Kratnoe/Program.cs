@@ -1,6 +1,6 @@
 ﻿int number1 = 2;
 int number2 = 5;
-double number3 = number2 % number1;
+int number3 = number2 % number1;
 
 if(number3 = 0)
 {

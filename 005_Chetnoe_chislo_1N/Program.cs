@@ -1,10 +1,12 @@
 ﻿int n = 5;
-int i = 3;
+int i = 1;
 
-while ( i <= n);
+while (i <= n) 
 {
-    if (i % 2 == 0) 
+
+if (i % 2 == 0) 
     {
-     Console.Write(n + "");
+    Console.Write(i + " ");
     }
+i=i+1;
 }
